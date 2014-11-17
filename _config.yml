@@ -20,9 +20,9 @@ gems:
 
 
 # Site owner
-owner: DRDC4team
-  name: gordontang
-  email: gordontang236@gmail.com
+owner:
+  name:
+  email:
   twitter: 
   google:
     ad-client: 
