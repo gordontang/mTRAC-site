@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Launch
+title: Milestone - Project Launch
 date: 2014-09-11
 ---
 
