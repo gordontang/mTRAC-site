@@ -9,7 +9,7 @@ permalink:        pretty
 title:            mTRAC
 tagline:          'Mobile technology-rich active classroom'
 description:      'Mobile Technology-Rich Active Classroom'
-url:              # https://gordontang.github.io/mTRAC-site/
+url:              / # https://gordontang.github.io/mTRAC-site/
 
 author:
   name:           'Gordon Tang'
