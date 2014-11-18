@@ -1,35 +1,24 @@
-# Site wide configuration
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-title: mTRAC
-description: Mobile Technology-Rich Active Classroom
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale:
-url: https://gordontang.github.io/mTRAC-site/
+# Permalinks
+permalink:        pretty
 
-# Jekyll configuration
+# Setup
+title:            mTRAC
+tagline:          'Mobile technology-rich active classroom'
+description:      'Mobile Technology-Rich Active Classroom'
+url:              https://gordontang.github.io/mTRAC-site/
 
-sass:
-    sass_dir: _sass
-    style: compressed
-permalink: /:categories/:title/
-markdown: kramdown
-highlighter: pygments
-gems:
-  - jekyll-sitemap
+author:
+  name:           'Gordon Tang'
+  url:            
 
+paginate:         5
 
-# Site owner
-owner:
-  name:
-  email:
-  twitter: 
-  google:
-    ad-client: 
-    ad-slot: 
-  bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname:
+# Custom vars
+version:          2.0.0
 
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+github:
+  repo:           https://github.com/gordontang/mTRAC-site
