@@ -4,12 +4,14 @@ pygments:         true
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            mTRAC
 tagline:          'Mobile Technology-Rich Active Classroom'
 description:      'Mobile Technology-Rich Active Classroom'
 url:              https://gordontang.github.io/mTRAC-site/
+baseurl:          /
 
 author:
   name:           'Gordon Tang'
