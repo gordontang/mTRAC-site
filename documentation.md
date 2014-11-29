@@ -9,7 +9,8 @@ title: Documentation
 
 ## Project Requirements
 Date: October 31, 2014
-
+*Pending NDA approval from DRDC*
 
 ## Design Proposal
-Date: November 29, 2014
+Date: November 28, 2014
+*Pending NDA approval from DRDC*
